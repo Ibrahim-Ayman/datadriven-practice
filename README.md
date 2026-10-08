@@ -1,6 +1,6 @@
-# hasty_snail_9450's data engineering practice
+# hema's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/hasty_snail_9450), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hasty_snail_9450), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [First Time Learners Per Day](./practice/sql/first-time-learners-per-day) | SQL | Medium | 2026-10-08 |
 | [Service Budget per Head](./practice/sql/service-budget-per-head) | SQL | Medium | 2026-10-07 |
 
 <!-- datadriven:index:end -->
