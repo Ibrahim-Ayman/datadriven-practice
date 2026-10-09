@@ -1,6 +1,6 @@
 # hema's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Services at Median Uptime](./practice/sql/services-at-median-uptime) | SQL | Medium | 2026-10-09 |
 | [First Time Learners Per Day](./practice/sql/first-time-learners-per-day) | SQL | Medium | 2026-10-08 |
 | [Service Budget per Head](./practice/sql/service-budget-per-head) | SQL | Medium | 2026-10-07 |
 
