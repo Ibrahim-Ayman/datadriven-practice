@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-19 |
 | [Who Came First](./practice/python/who-came-first) | Python | Easy | 2026-10-17 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
 | [The Quiet Middle](./practice/sql/the-quiet-middle) | SQL | Easy | 2026-10-14 |
