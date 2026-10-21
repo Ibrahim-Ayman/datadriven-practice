@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Horizon Scanner](./practice/python/the-horizon-scanner) | Python | Medium | 2026-10-21 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-10-21 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-19 |
 | [Who Came First](./practice/python/who-came-first) | Python | Easy | 2026-10-17 |
