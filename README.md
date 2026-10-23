@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-10-22 |
 | [The Horizon Scanner](./practice/python/the-horizon-scanner) | Python | Medium | 2026-10-21 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-10-21 |
