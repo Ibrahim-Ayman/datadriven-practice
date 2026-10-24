@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [User Sessions on Specific Days](./practice/sql/user-sessions-on-specific-days) | SQL | Easy | 2026-10-24 |
 | [Presence vs. Participation](./practice/sql/presence-vs-participation) | SQL | Medium | 2026-10-24 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-10-22 |
