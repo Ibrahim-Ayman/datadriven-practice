@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Trip Aggregator](./practice/python/the-trip-aggregator) | Python | Medium | 2026-10-25 |
 | [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-25 |
 | [User Sessions on Specific Days](./practice/sql/user-sessions-on-specific-days) | SQL | Easy | 2026-10-24 |
 | [Presence vs. Participation](./practice/sql/presence-vs-participation) | SQL | Medium | 2026-10-24 |
