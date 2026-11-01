@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-11-01 |
 | [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-10-28 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-27 |
 | [The Trip Aggregator](./practice/python/the-trip-aggregator) | Python | Medium | 2026-10-25 |
