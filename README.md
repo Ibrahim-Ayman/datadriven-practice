@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Medium | 2026-11-07 |
+| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Easy | 2026-11-07 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
 | [The Full Picture](./practice/sql/the-full-picture) | SQL | Easy | 2026-11-03 |
 | [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-11-01 |
