@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-11-13 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Medium | 2026-11-07 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
