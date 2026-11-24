@@ -9,7 +9,7 @@ Scored work from [DataDriven](https://datadriven.io/u/hema), committed here as i
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-11-17 |
-| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-11-15 |
+| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Easy | 2026-11-15 |
 | [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-11-13 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Medium | 2026-11-07 |
